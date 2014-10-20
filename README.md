@@ -1,4 +1,4 @@
-This is a base exmplar Node.js application in Google App Engine. It takes advantage of the Custom Runtime functionality available in App Engine Managed VMs.
+This is a base example Node.js application in Google App Engine. It takes advantage of the Custom Runtime functionality available in App Engine Managed VMs.
 
 Getting started
 ===============
